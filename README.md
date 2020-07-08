@@ -5,3 +5,4 @@
 1. [July 7 Response](https://dpuri-wm.github.io/Machine-Learning/July-7-Response)
 
 2. [July 8 Response](https://dpuri-wm.github.io/Machine-Learning/July-8-Response)
+ 
