@@ -2,4 +2,6 @@
 
 2. We used the binary_crossentropy loss function because this model is doing binary classification (classifying a review as either positive or negative). It's also benefical for dealing with probabilities. For the optomizer, we used "adam" again.
 
-3. 
+3. Loss is "error". Thus, as the number of epochs increases, you want to see training loss decrease because you want error to be decreasing as you train your model with more epochs. In this figure, as more epochs are run, training loss is decreasing. The validation loss "peaks" after 20 epochs, which indicateds overfitness - the model is training too well on the train data. 
+
+4. In this graph, the training accuracy increases with each epoch. Validation accuracy peaks again, indicating overfitting.
