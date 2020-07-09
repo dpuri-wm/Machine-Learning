@@ -7,3 +7,5 @@
 [Graph 1](https://user-images.githubusercontent.com/60228374/87075502-735be180-c1ee-11ea-9c1d-3384b712cfc6.png)
 
 4. In this graph, the training accuracy increases with each epoch. Validation accuracy peaks again, indicating overfitting.
+
+[Graph 2](https://user-images.githubusercontent.com/60228374/87075885-03019000-c1ef-11ea-8248-b4d58a1dfb94.png)
