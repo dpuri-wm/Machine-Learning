@@ -4,4 +4,6 @@
 
 3. Loss is "error". Thus, as the number of epochs increases, you want to see training loss decrease because you want error to be decreasing as you train your model with more epochs. In this figure, as more epochs are run, training loss is decreasing. The validation loss "peaks" after 20 epochs, which indicateds overfitness - the model is training too well on the train data. 
 
+[Graph 1](https://github.com/dpuri-wm/images/issues/1#issue-654254746)
+
 4. In this graph, the training accuracy increases with each epoch. Validation accuracy peaks again, indicating overfitting.
