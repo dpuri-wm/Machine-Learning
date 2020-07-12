@@ -7,3 +7,5 @@
 2. [July 8 Response](https://dpuri-wm.github.io/Machine-Learning/July-8-Response)
  
 3. [July 9 Response](https://dpuri-wm.github.io/Machine-Learning/July-9-Response)
+
+4. [Social Distance Detector Project](https://youtu.be/Dp4qf3Stmfs) 
