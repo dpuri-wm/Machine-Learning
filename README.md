@@ -11,3 +11,5 @@
 4. [Social Distance Detector Project](https://youtu.be/Dp4qf3Stmfs) 
 
 5. [Social Distance Detector Response](https://dpuri-wm.github.io/Machine-Learning/Project1-response)
+
+6. [July 14 Response](https://dpuri-wm.github.io/Machine-Learning/July-14-Response)
