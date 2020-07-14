@@ -13,3 +13,7 @@
 5. [Social Distance Detector Response](https://dpuri-wm.github.io/Machine-Learning/Project1-response)
 
 6. [July 14 Response](https://dpuri-wm.github.io/Machine-Learning/July-14-Response)
+
+7. [Lab 4 Questions](https://dpuri-wm.github.io/Machine-Learning/Lab4.responses)
+
+
