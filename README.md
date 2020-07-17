@@ -16,4 +16,6 @@
 
 7. [Lab 4 Questions](https://dpuri-wm.github.io/Machine-Learning/Lab4.responses)
 
-8. [Project 2](https://dpuri-wm.github.io/Machine-Learning/Project2)
+8. [July 15 Response](https://dpuri-wm.github.io/Machine-Learning/Project-2-code)
+
+9. [Project 2](https://dpuri-wm.github.io/Machine-Learning/Project2)
