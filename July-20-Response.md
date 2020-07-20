@@ -11,3 +11,7 @@ D)  [Accuracy Graph](https://user-images.githubusercontent.com/60228374/87969168
 As epochs increased, validation loss increased while training loss increased - showing that the model may be overfit. With respect to accuracy, they both increased as epochs icnreased, and training accuracy was slightly higher which reveals the model is slightly overfit. Overall, I would say the model performed well. 
     
     
+    
+    
+    
+    ![Screen Shot 2020-07-20 at 5 22 35 PM](https://user-images.githubusercontent.com/60228374/87988055-aaaf7580-caad-11ea-8c17-eb496e9cfef8.png) 
