@@ -14,4 +14,4 @@ As epochs increased, validation loss increased while training loss increased - s
     
     
     
-    [Screen Shot 2020-07-20 at 5 22 35 PM](https://user-images.githubusercontent.com/60228374/87988055-aaaf7580-caad-11ea-8c17-eb496e9cfef8.png) 
+   [Screen Shot 2020-07-20 at 5 22 35 PM](https://user-images.githubusercontent.com/60228374/87988055-aaaf7580-caad-11ea-8c17-eb496e9cfef8.png) 
