@@ -12,6 +12,29 @@ As epochs increased, validation loss increased while training loss increased - s
     
     
     
+  Below, are the dog images I tested in the CNN. 
     
     
  ![Screen Shot 2020-07-20 at 5 22 35 PM](https://user-images.githubusercontent.com/60228374/87988382-3923f700-caae-11ea-9659-d91abcece374.png)
+ 
+ - The model, was correct and classified this as a dog!
+ 
+ ![Screen Shot 2020-07-20 at 5 30 30 PM](https://user-images.githubusercontent.com/60228374/87988669-b9e2f300-caae-11ea-9232-2b2a06daa584.png)
+ 
+ - classified as a dog
+ 
+ ![Screen Shot 2020-07-20 at 5 31 39 PM](https://user-images.githubusercontent.com/60228374/87988776-e0a12980-caae-11ea-9426-a383f74d7ee2.png)
+ 
+ - I wanted to try this image, since this dog kind of looks like a cat! The model classified it as a cat 
+ 
+ ![Screen Shot 2020-07-20 at 5 32 24 PM](https://user-images.githubusercontent.com/60228374/87988853-fc0c3480-caae-11ea-9f06-bd1856b3e952.png)
+
+- classified as a cat
+
+![Screen Shot 2020-07-20 at 5 33 08 PM](https://user-images.githubusercontent.com/60228374/87988900-16461280-caaf-11ea-9360-8c48e058fdf6.png)
+
+- classified as a cat
+
+![Screen Shot 2020-07-20 at 5 33 46 PM](https://user-images.githubusercontent.com/60228374/87988953-2c53d300-caaf-11ea-89d1-106188c925ee.png)
+
+- classified as a cat
