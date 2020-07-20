@@ -19,3 +19,5 @@
 8. [July 15 Response](https://dpuri-wm.github.io/Machine-Learning/July-15-Response)
 
 9. [Project 2](https://dpuri-wm.github.io/Machine-Learning/Project2)
+
+10. [July 20 Response](https://dpuri-wm.github.io/Machine-Learning/July-20-Response)
