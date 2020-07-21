@@ -12,8 +12,11 @@ A) 1. To split the labels from the trianing set, we used the code: train_y = tra
    
    5.
    
-B) 1. Below, I used the seaborn library to produce a pairplot of a couple features. 
+B) 1. Below, I used the seaborn library to produce a pairplot of a couple features. I also created a histogram of the age distribution on board. 
 
 ![Figure_1](https://user-images.githubusercontent.com/60228374/88090838-2b2caf80-cb5c-11ea-9acf-60324b69cd0b.png)
+![Figure_2](https://user-images.githubusercontent.com/60228374/88091045-7d6dd080-cb5c-11ea-8786-6caf2dcb0da3.png)
+
+   The histogram for age looks very similar to the plot for the feature age. Both have the same peaks and distirution. My paiplot seems to be a little cut off, but the distirbution of age is on the top, left of the pairplot. It's clear from the plot that the average age of people on board was between 20-30 years old. 
  
    2. 
