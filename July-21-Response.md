@@ -10,7 +10,11 @@ A) 1. To split the labels from the trianing set, we used the code: train_y = tra
    
    4. Classifier.train() is training the model further. The nested function is input_fn(). We created the command, because we want to call upon it. 
    
-   5.
+   5. DNNClassifier - .767
+      DNNLinearCombinedClassifier - .733
+      LinearClassifier - .967
+      
+      The LinearClassifier performed best! However, I may have made a mistake. When searching the parameters that Linearclassifier accepted, I couldn't find an argument to enter the hidden layers of nodes of [30,10]. I'll look into this.
    
 B) 1. Below, I used the seaborn library to produce a pairplot of a couple features. I also created a histogram of the age distribution on board. 
 
