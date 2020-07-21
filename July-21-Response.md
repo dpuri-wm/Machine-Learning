@@ -19,4 +19,6 @@ B) 1. Below, I used the seaborn library to produce a pairplot of a couple featur
 
    The histogram for age looks very similar to the plot for the feature age. Both have the same peaks and distirution. My paiplot seems to be a little cut off, but the distirbution of age is on the top, left of the pairplot. It's clear from the plot that the average age of people on board was between 20-30 years old. 
  
-   2. 
+   2. A categorical column is a feature that involves non-numerical values, like the columns: "sex" or "deck". The values stored in these features are not numbers, like for example, male and female. A dense feature is a layer based on the supplied feature columns, and can be used to inspect the result of a feature column. 
+   
+   3. The model acheived 75% accuracy! To increase performance, we added a cross featured column, that captured the interaction between age and sex. This increased accuracy to 77.6%. I produced an ROC plot, receiver operating curve, and it shows the tradeoff between the true positive rate and false positive rate. Both increase over time. In the beginning, the true positive rate increased much faster than the false positive rate. However, as the model progressed, the rate of false positives increased. 
