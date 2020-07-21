@@ -12,6 +12,8 @@ A) 1. To split the labels from the trianing set, we used the code: train_y = tra
    
    5.
    
-B) 1.
+B) 1. Below, I used the seaborn library to produce a pairplot of a couple features. 
+
+![Figure_1](https://user-images.githubusercontent.com/60228374/88090838-2b2caf80-cb5c-11ea-9acf-60324b69cd0b.png)
  
    2. 
