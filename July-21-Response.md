@@ -22,3 +22,5 @@ B) 1. Below, I used the seaborn library to produce a pairplot of a couple featur
    2. A categorical column is a feature that involves non-numerical values, like the columns: "sex" or "deck". The values stored in these features are not numbers, like for example, male and female. A dense feature is a layer based on the supplied feature columns, and can be used to inspect the result of a feature column. 
    
    3. The model acheived 75% accuracy! To increase performance, we added a cross featured column, that captured the interaction between age and sex. This increased accuracy to 77.6%. I produced an ROC plot, receiver operating curve, and it shows the tradeoff between the true positive rate and false positive rate. Both increase over time. In the beginning, the true positive rate increased much faster than the false positive rate. However, as the model progressed, the rate of false positives increased. 
+
+![Screen Shot 2020-07-21 at 4 47 03 PM](https://user-images.githubusercontent.com/60228374/88105382-d300a800-cb71-11ea-976d-607299afebbe.png)
