@@ -14,5 +14,9 @@
     
     
 1. ![Screen Shot 2020-07-25 at 4 58 45 PM](https://user-images.githubusercontent.com/60228374/88466235-30f5fe00-ce98-11ea-9a6d-8b05f77540eb.png)
+    ![Screen Shot 2020-07-25 at 4 58 54 PM](https://user-images.githubusercontent.com/60228374/88466244-49feaf00-ce98-11ea-90e0-3c71a8d9bbc9.png)
 
+    Above is the horizontal bar plot and violin plot! Sex and age contributed most to the predicted probabilites of survival. Another interesting discovery is that paying a larger fare would increase survival probability. 
+    
+    
     
