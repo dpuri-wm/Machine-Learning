@@ -1,6 +1,6 @@
 # Applied Machine Learning
 
-
+## Week 1
 
 1. [July 7 Response](https://dpuri-wm.github.io/Machine-Learning/July-7-Response)
 
@@ -12,6 +12,8 @@
 
 5. [Social Distance Detector Response](https://dpuri-wm.github.io/Machine-Learning/Project1-response)
 
+## Week 2
+
 6. [July 14 Response](https://dpuri-wm.github.io/Machine-Learning/July-14-Response)
 
 7. [Lab 4 Questions](https://dpuri-wm.github.io/Machine-Learning/Lab4.responses)
@@ -20,9 +22,13 @@
 
 9. [Project 2](https://dpuri-wm.github.io/Machine-Learning/Project2)
 
+## Week 3
+
 10. [July 20 Response](https://dpuri-wm.github.io/Machine-Learning/July-20-Response)
 
 11. [July 21 Response](https://dpuri-wm.github.io/Machine-Learning/July-21-Response)
+
+12. [July 22 Response](https://dpuri-wm.github.io/Machine-Learning/July-22-Response)
 
 ## Final Project
 
