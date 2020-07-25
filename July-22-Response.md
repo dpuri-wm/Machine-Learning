@@ -13,3 +13,6 @@
     From the ROC curve, its clear to see that the rate of true positives is increasing much faster than false positives, in the beginning of the graph. However, the curve levels off. It reveals overfitting. Both probability models are pretty spread out, with a slight skew to the right. The boosted trees classifier shows a distirbution with 2 peaks, most likely indicating that it is the better classifier. 
     
     
+1. ![Screen Shot 2020-07-25 at 4 58 45 PM](https://user-images.githubusercontent.com/60228374/88466235-30f5fe00-ce98-11ea-9a6d-8b05f77540eb.png)
+
+    
