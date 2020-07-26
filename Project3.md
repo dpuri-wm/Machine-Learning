@@ -5,3 +5,11 @@ The goal of this project was to determine population counts of the Korle Gonno n
 ![9029](https://user-images.githubusercontent.com/60228374/88491393-653ced80-cf70-11ea-8f01-9ceb4c03d351.jpeg)
 
 
+## Creation of the model
+
+The general structure of how I completed this assignment is as follows: 
+
+- Split the data into two datasets, train_imgs and test_imgs
+- Create a neural network 
+- Compile the model
+- Fit the model on the training data
