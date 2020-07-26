@@ -13,6 +13,7 @@ The general structure of how I completed this assignment is as follows:
   - I split 90% of the data into the training folder and 10% of the data into the testing folder
   - I physically split the images on my desktop into 2 folders, then created a path for each, which is how I "called" upon them in pycharms
 - Create a neural network 
+  - created a DNN and a CNN
 - Compile the model
 - Fit the model on the training data
 
