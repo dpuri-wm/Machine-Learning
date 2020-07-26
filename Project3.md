@@ -20,3 +20,5 @@ After playing around with convolutional layers and the neurons, along with balan
 
 ![better1](https://user-images.githubusercontent.com/60228374/88491701-f6ad5f00-cf72-11ea-8dff-9a144b70c314.png)
 ![better2](https://user-images.githubusercontent.com/60228374/88491734-4be97080-cf73-11ea-815e-abc596d1174e.png)
+
+As seen from the graphs, both mean square error and mean absolute error, on average, decreased over the course of the training epochs. 
