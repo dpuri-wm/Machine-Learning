@@ -9,7 +9,9 @@ The goal of this project was to determine population counts of the Korle Gonno n
 
 The general structure of how I completed this assignment is as follows: 
 
-- Split the data into two datasets, train_imgs and test_imgs
+- Split the data into two datasets, train_imgs and test_imgs 
+  - I split 90% of the data into the training folder and 10% of the data into the testing folder
+  - I physically split the images on my desktop into 2 folders, then created a path for each, which is how I "called" upon them in pycharms
 - Create a neural network 
 - Compile the model
 - Fit the model on the training data
@@ -22,3 +24,7 @@ After playing around with convolutional layers and the neurons, along with balan
 ![better2](https://user-images.githubusercontent.com/60228374/88491734-4be97080-cf73-11ea-815e-abc596d1174e.png)
 
 As seen from the graphs, both mean square error and mean absolute error, on average, decreased over the course of the training epochs. 
+
+## Conclusion
+
+In general, it's easy to see that my model was highly inaccurate. I would have loved to fit the model on more trianing images and add more convolutions to my neural network. This was definitly an interesting project, and it has useful applications. For example, this project has taught me how convolutional neural networks can be useful in population estimation. In DATA 150 last semester, I read various articles about how surveillance technology can estimate population counts, and it was beyond fascinating to see that actually put into action with this project. I am now aware of the technique and a little of the mathematics behind it. 
