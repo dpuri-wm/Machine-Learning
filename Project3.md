@@ -28,6 +28,10 @@ As seen from the graphs, both mean square error and mean absolute error, on aver
 
 ## Prediction of population counts
 
+![9024](https://user-images.githubusercontent.com/60228374/88572017-7dfae100-d00c-11ea-84d2-faa652c40fc9.jpeg)
+
+When I used model.predict() on the above image, the model estimated a population count of 35.34368. When I look at this picture, I actually think the model made an accurate assessment, because there a couple buildings around and vehicles. It makes sense that there would be about 35 people residing here.
+
 
 
 ## Conclusion
