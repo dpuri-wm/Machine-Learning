@@ -32,7 +32,9 @@ As seen from the graphs, both mean square error and mean absolute error, on aver
 
 When I used model.predict() on the above image, the model estimated a population count of 35.34368. When I look at this picture, I actually think the model made an accurate assessment, because there a couple buildings around and vehicles. It makes sense that there would be about 35 people residing here.
 
+![9264](https://user-images.githubusercontent.com/60228374/88572466-2dd04e80-d00d-11ea-9226-f623b5afbeea.jpeg)
 
+When I fed the above image into the model, I received an output of 37.236107 persons. Obviously, the picture reveals that this estimation is highly inaccurate. There is no settlement in the rural picture. This indicates my model may not be as accurate as I had thought when I fed the first image into the estimator. Perhaps the model functions better at estimation population counts when looking at more urban images combared to suburban/rural orthophotos. 
 
 ## Conclusion
 
