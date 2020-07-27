@@ -36,6 +36,9 @@ When I used model.predict() on the above image, the model estimated a population
 
 When I fed the above image into the model, I received an output of 37.236107 persons. Obviously, the picture reveals that this estimation is highly inaccurate. There is no settlement in the rural picture. This indicates my model may not be as accurate as I had thought when I fed the first image into the estimator. Perhaps the model functions better at estimation population counts when looking at more urban images combared to suburban/rural orthophotos. 
 
+Here is a small snippet of my code, which shows how I received these population estimations using model.fit():
+![Screen Shot 2020-07-27 at 1 33 05 PM](https://user-images.githubusercontent.com/60228374/88572755-b818b280-d00d-11ea-9d54-a166b81d59d6.png)
+
 ## Conclusion
 
 In general, it's easy to see that my model was highly inaccurate. I would have loved to fit the model on more trianing images and add more convolutions to my neural network. This was definitly an interesting project, and it has useful applications. For example, this project has taught me how convolutional neural networks can be useful in population estimation. In DATA 150 last semester, I read various articles about how surveillance technology can estimate population counts, and it was beyond fascinating to see that actually put into action with this project. I am now aware of the technique and a little of the mathematics behind it. 
