@@ -26,6 +26,10 @@ After playing around with convolutional layers and the neurons, along with balan
 
 As seen from the graphs, both mean square error and mean absolute error, on average, decreased over the course of the training epochs. 
 
+## Prediction of population counts
+
+
+
 ## Conclusion
 
 In general, it's easy to see that my model was highly inaccurate. I would have loved to fit the model on more trianing images and add more convolutions to my neural network. This was definitly an interesting project, and it has useful applications. For example, this project has taught me how convolutional neural networks can be useful in population estimation. In DATA 150 last semester, I read various articles about how surveillance technology can estimate population counts, and it was beyond fascinating to see that actually put into action with this project. I am now aware of the technique and a little of the mathematics behind it. 
