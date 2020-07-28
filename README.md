@@ -32,6 +32,10 @@
 
 13. [Project 3](https://dpuri-wm.github.io/Machine-Learning/Project3)
 
+## Week 4 
+
+14. [July 28 Response](https://dpuri-wm.github.io/Machine-Learning/July-28-Response)
+
 ## Final Project
 
 1. [Problem Statement](https://dpuri-wm.github.io/Machine-Learning/Problem-Statement)
