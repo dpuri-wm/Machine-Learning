@@ -5,4 +5,7 @@
 
 Above are the two plots from the word embedding tensorflow exercise. Training accuracy continued to increase over the course of the epochs, while validation accuracy then decreased. The divergence of the two lines indicates that the model may be overfit. The other plot shows trianing loss is much less than validation loss. This means the network may be overfitting.
 
-1. 
+1. ![Screen Shot 2020-07-28 at 2 35 32 PM](https://user-images.githubusercontent.com/60228374/88707008-a4d61780-d0df-11ea-9587-8d7c6dfcf4b4.png)
+   ![Screen Shot 2020-07-28 at 2 35 39 PM](https://user-images.githubusercontent.com/60228374/88707013-a69fdb00-d0df-11ea-95b6-23e5da48c06a.png)
+
+
