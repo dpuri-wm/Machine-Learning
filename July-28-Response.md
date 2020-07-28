@@ -1,0 +1,3 @@
+1. One-hot encoding is very inefficient because it is a sparse vector - meaning that most indeces are 0. This just wouldn't make sense efficiency wise, if for example, there were 10,000 words in the vocabulary. To one-hot encode a word, 99.99% of the indeces would be 0 and just one would have 1 stored in it. In comparison, word embeddings are efficient, dense representations. A dense vector is one where all elements are full. For example, "the cat sat on the mat" could have a dense vector of [5,1,4,3,5,2]. An embedding is a dense vector of floating point values - these values are trainable parameters/ weights learned by the model during training. After the weights are learend, you can encode each word by looking at the dense vector it corresponds to. 
+
+2. 
