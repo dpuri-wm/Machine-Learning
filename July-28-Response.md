@@ -9,3 +9,7 @@ Above are the two plots from the word embedding tensorflow exercise. Training ac
    ![Screen Shot 2020-07-28 at 2 35 39 PM](https://user-images.githubusercontent.com/60228374/88707013-a69fdb00-d0df-11ea-95b6-23e5da48c06a.png)
 
 
+   ![Screen Shot 2020-07-28 at 2 37 20 PM](https://user-images.githubusercontent.com/60228374/88707166-dfd84b00-d0df-11ea-9268-3ecdc7a92092.png)
+   ![Screen Shot 2020-07-28 at 2 37 25 PM](https://user-images.githubusercontent.com/60228374/88707170-e1a20e80-d0df-11ea-8a36-3ffd7f103366.png)
+   
+   The above 4 plots show training/validation accuracy and training/validation loss. The bottom 2 plots are after the addition of 2 more LTSM layers in the RNN. 
