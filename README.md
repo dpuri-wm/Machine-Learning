@@ -41,3 +41,5 @@
 ## Final Project
 
 1. [Problem Statement](https://dpuri-wm.github.io/Machine-Learning/Problem-Statement)
+
+2. [Final Project Poster](https://dpuri-wm.github.io/Machine-Learning/FinalProject)
